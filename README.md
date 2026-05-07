@@ -42,8 +42,8 @@ The model uses:
 
 ## Repository Files
 
-- [Final Thesis PDF](./Bashar_Alsaleh_Final_Thesis.pdf)
-- [Final Notebook](./S1_Final.ipynb)
+- [Final Thesis PDF](./Thesis_Bashar_f.pdf)
+- [Final Notebook](./S1_Final_GitHub.ipynb)
 - [Backup Python Script](./S1_Final_GitHub_backup.py)
 - [Requirements](./requirements.txt)
 
