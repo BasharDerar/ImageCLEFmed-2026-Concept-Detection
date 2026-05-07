@@ -1,0 +1,10 @@
+torch
+torchvision
+timm
+numpy
+pandas
+scikit-learn
+matplotlib
+Pillow
+tqdm
+iterative-stratification
